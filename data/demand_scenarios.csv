@@ -1,0 +1,4 @@
+scenario,probability,general_patients,emergency_patients
+Low demand,0.20,40,8
+Normal demand,0.50,60,12
+High demand,0.30,85,20
